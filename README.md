@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Spring and React;
+<div style="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellegb&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellegb&layout=compact&theme=radical" />
+</ div>
+
 
 <!--
 **daniellegb/daniellegb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
