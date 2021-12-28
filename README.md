@@ -3,6 +3,7 @@
 <div style="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellegb&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellegb&layout=compact&theme=radical" />
+  <img height="195em" src="https://github.com/daniellegb/daniellegb/blob/output/github-contribution-grid-snake.gif" />
 </ div>
 
 
