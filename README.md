@@ -6,22 +6,33 @@
   <img height="185em" src="https://github.com/daniellegb/daniellegb/blob/output/github-contribution-grid-snake.gif" />
 </ div>
 
-### Some projects:
 
-#### [DS Delivery](https://github.com/daniellegb/dsdeliver-sds2)
+## Some projects:
+
+### *DS Delivery*
+##### [Click here to open GitHub repository for code, description and details.](https://github.com/daniellegb/dsdeliver-sds2)
+##### [Click here to open the web app.](https://daniellegb-sds2.netlify.app/)
 
 ![DS Delivery](https://github.com/daniellegb/daniellegb/blob/main/assets/dsdelivery.png)  
 
-#### [DS Vendas](https://github.com/daniellegb/dsvendas-sds3)
+#
+### *DS Vendas*
+##### [Click here to open GitHub repository for code, description and details.](https://github.com/daniellegb/dsvendas-sds3)
+##### [Click here to open the web app.](https://daniellegb-sds3.netlify.app/)
 
 ![DS Vendas](https://github.com/daniellegb/daniellegb/blob/main/assets/dashboard.png)
 
-#### [DS Movie](https://github.com/daniellegb/dsmovie)
+#
+### *DS Movie*
+##### [Click here to open GitHub repository for code, description and details.](https://github.com/daniellegb/dsmovie)
+##### [Click here to open the web app.](https://daniellegb-dsmovie.netlify.app/)
 
 ![DS Movie](https://github.com/daniellegb/daniellegb/blob/main/assets/dsmovie.png)
 
-
-#### [Movieflix](https://github.com/daniellegb/movieflix)
+#
+### *Movieflix*
+##### [Click here to open GitHub repository for code, description and details.](https://github.com/daniellegb/movieflix)
+##### [Click here to open the web app.](https://daniellegb-movieflix.netlify.app/)
 
 ![Movieflix](https://github.com/daniellegb/daniellegb/blob/main/assets/movieflix.png)
 
