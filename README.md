@@ -1,10 +1,12 @@
 ### Hi there 👋
 - 🌱 I’m currently coding in Spring and React;
+<!--
 <div style="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniellegb&show_icons=true&theme=radical" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellegb&layout=compact&theme=radical" />
   <img height="185em" src="https://github.com/daniellegb/daniellegb/blob/output/github-contribution-grid-snake.gif" />
 </ div>
+-->
 
 
 ## Some projects:
